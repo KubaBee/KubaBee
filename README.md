@@ -6,7 +6,7 @@
 
 * Currently working on my:
   * :spaghetti: cooking blog app
-  * :clapper: intresting movies scraper
+  * :clapper: new movies scraper
 - 📫 How to reach me: [1kubaape1@gmail.com](mailto:1kubaape1@gmail.com)
 
 ### Technologies I use
