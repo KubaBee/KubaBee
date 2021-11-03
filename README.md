@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Kuba
-- 🌐 I’m interested in Web Development
-- 🐍 I’m currently learning Python
+- :nerd_face: I’m interested in Web Development :globe_with_meridians: and Python :snake:
+  - :plate_with_cutlery: Currently working on my cooking blog app!
 - 📫 How to reach me: [1kubaape1@gmail.com](mailto:1kubaape1@gmail.com)
 
 ### Technologies I use
