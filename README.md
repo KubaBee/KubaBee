@@ -4,7 +4,7 @@
 
 * :mag_right: I’m interested in Web Development :globe_with_meridians: and Python :snake:
 
-*  Currently working on my:
+* Currently working on my:
   * :spaghetti: cooking blog app
   * :clapper: intresting movies scraper
 - 📫 How to reach me: [1kubaape1@gmail.com](mailto:1kubaape1@gmail.com)
