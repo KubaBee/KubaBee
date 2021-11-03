@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Kuba
 - 🌐 I’m interested in Web Development
 - 🐍 I’m currently learning Python
-- 📫 How to reach me: [1kubaape1@gmail.com]("mailto:1kubaape1@gmail.com")
+- 📫 How to reach me: [1kubaape1@gmail.com](mailto:1kubaape1@gmail.com)
 
 ### Technologies I use
 [<img align="left" alt="LinkedIn" width="26" src="https://github.com/KubaBee/KubaBee/blob/master/python.png?raw=true" />](https://pl.python.org/)
