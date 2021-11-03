@@ -3,6 +3,7 @@
 ### :man_student: I'm 3rd year student of geoinformatics
 
 * :mag_right: I’m interested in Web Development :globe_with_meridians: and Python :snake:
+
 *  Currently working on my:
   * :spaghetti: cooking blog app
   * :clapper: intresting movies scraper
