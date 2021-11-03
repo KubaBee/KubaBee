@@ -1,4 +1,7 @@
 # 👋 Hi there, I’m Kuba
+
+## I'm 3rd year student of geoinformatics
+
 - :nerd_face: I’m interested in Web Development :globe_with_meridians: and Python :snake:
   - :man_student: Currently working on my cooking blog app!
 - 📫 How to reach me: [1kubaape1@gmail.com](mailto:1kubaape1@gmail.com)
